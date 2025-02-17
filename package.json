@@ -122,6 +122,7 @@
     "native-is-elevated": "0.7.0",
     "native-keymap": "^3.3.5",
     "native-watchdog": "^1.4.1",
+    "node-ovsx-sign": "^1.2.0",
     "node-pty": "1.1.0-beta21",
     "ollama": "^0.5.11",
     "open": "^8.4.2",
